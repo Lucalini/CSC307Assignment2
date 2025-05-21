@@ -3,7 +3,10 @@ package org.general;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+/**
+ *
+ * @author Lucalini
+ */
 public class Main extends JFrame {
     private DrawPanel panel;
 
