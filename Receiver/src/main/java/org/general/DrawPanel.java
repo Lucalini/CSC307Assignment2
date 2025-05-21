@@ -7,7 +7,7 @@ import java.util.Observer;
 
 /**
  *
- *
+ * @author Lucalini
  */
 
 public class DrawPanel extends JPanel implements Observer {
