@@ -2,6 +2,12 @@ package org.general;
 
 import java.util.Observable;
 
+
+/**
+ *
+ * @author Lucalini
+ */
+
 public class Repository extends Observable {
 
     private static Repository instance; // Singleton instance
